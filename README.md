@@ -23,14 +23,6 @@ Saya adalah seorang **Web Developer** dan pengelola layanan teknologi **PazzelCo
 
 ---
 
-### 📊 Statistik GitHub Saya
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pazzelcode&show_icons=true&theme=tokyonight&bg_color=0f172a&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
-
 ### 📫 Hubungi & Kolaborasi
 
 Tertarik bekerja sama atau ingin berdiskusi mengenai proyek digital Anda? Mari terhubung:
