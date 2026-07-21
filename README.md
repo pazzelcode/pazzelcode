@@ -1,16 +1,38 @@
-## Hi there 👋
+### 👋 Halo, Selamat Datang di Profil Saya!
 
-<!--
-**pazzelcode/pazzelcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya adalah seorang **Web Developer** dan pengelola layanan teknologi **PazzelCode**, yang berdedikasi untuk membantu bisnis lokal, UMKM, hingga skala enterprise bertransformasi ke ekosistem digital. Saya berfokus pada perancangan antarmuka yang bersih, performa web yang optimal, serta pengembangan sistem berbasis web yang fungsional.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack & Keahlian Saya
+
+* **Bahasa & Frontend:** HTML5, CSS3, JavaScript (ES6+), PHP
+* **Tools & Framework:** Git, GitHub, Terminal (Termux/Linux)
+* **Jaringan & Infrastruktur:** Manajemen Jaringan, MikroTik, Captive Portal Hotspot, Mikhmon
+* **Pengembangan Sistem:** Pembuatan Website Company Profile, E-Commerce, dan Web App Kustom (POS/Admin Dashboard)
+
+---
+
+### 🚀 Tentang PazzelCode
+
+**PazzelCode** hadir sebagai mitra teknologi yang merangkai baris demi baris kode dengan presisi tinggi layaknya menyusun sebuah *puzzle*. Kami menyediakan solusi digital terjangkau, transparan, dan profesional untuk kebutuhan:
+* 🌐 Jasa Pembuatan Website & Landing Page
+* 💻 Pengembangan Web App & Sistem Kustom
+* 🛒 Pembuatan Website E-Commerce (Toko Online)
+* 🚀 Layanan Maintenance & SEO Website
+
+---
+
+### 📊 Statistik GitHub Saya
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_ANDA&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+---
+
+### 📫 Hubungi & Kolaborasi
+
+Tertarik bekerja sama atau ingin berdiskusi mengenai proyek digital Anda? Mari terhubung:
+* **Email:** [pazzelcode@gmail.com](mailto:pazzelcode@gmail.com)
+* **Website:** [PazzelCode Portfolio](https://USERNAME_GITHUB_ANDA.github.io) *(Ganti dengan link GitHub Pages Anda)*
